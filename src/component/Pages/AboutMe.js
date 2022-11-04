@@ -7,7 +7,7 @@ export default function AboutMe() {
 
       <h2>About me </h2>
       <p>
-        My name is Austin Post i was born and raised in Dallas, Texas I have a background in multi meadia production
+        My name is Austin Post i was born and raised in Dallas, Texas I have a background in multi meadia production,
         stream production, lighting, camera operations, and event management. I recently decided to push myself into the world of web development
         to better understand the technologies being used in my day to day life.
         <p>

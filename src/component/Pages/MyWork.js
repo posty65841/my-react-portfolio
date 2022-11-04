@@ -18,7 +18,7 @@ export default function MyWork() {
       <div style={styles.card}>
       <div>
       <Card style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="../../assets/bg-img.png" />
+        <Card.Img variant="top" src={require("../../assets/bg-img.png")} />
         <Card.Body>
           <Card.Title>Happy Holidays Gift Tracker</Card.Title>
           <Card.Text>
@@ -76,7 +76,7 @@ export default function MyWork() {
       <div>
      
       <Card style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="../../assets/bg-img.png" />
+        <Card.Img variant="top" src={require("../../assets/Screen Shot 2022-11-03 at 20.23.51.png")} />
         <Card.Body>
           <Card.Title>Weather Tracker</Card.Title>
           <Card.Text>
