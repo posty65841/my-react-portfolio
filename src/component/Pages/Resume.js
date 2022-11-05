@@ -5,6 +5,7 @@
 
 function Resume() {
     return (
+        <div>
         <section>
 
             <h2>Resume</h2>
@@ -14,6 +15,8 @@ function Resume() {
                 ducimus.
             </p>
         </section>
+       
+        </div>
     );
 }
 
