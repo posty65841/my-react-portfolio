@@ -50,7 +50,7 @@ export default function MyWork() {
         </Card.Body>
         
         <Card.Body>
-          <Card.Link href="https://github.com/posty65841/employee-tracker">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/employee-tracker">view project</Card.Link>
 
         </Card.Body>
        
@@ -71,7 +71,7 @@ export default function MyWork() {
         </Card.Body>
 
         <Card.Body>
-          <Card.Link href="https://github.com/posty65841/Meme-Gen">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/Meme-Gen">view project</Card.Link>
 
         </Card.Body>
        
@@ -90,7 +90,7 @@ export default function MyWork() {
         </Card.Body>
 
         <Card.Body>
-          <Card.Link href="https://github.com/posty65841/weather-app-">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/weather-app-">view project</Card.Link>
 
         </Card.Body>
       </Card>
@@ -126,7 +126,7 @@ export default function MyWork() {
         </Card.Body>
         
         <Card.Body>
-          <Card.Link href="https://github.com/posty65841/note-taker">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/note-taker">view project</Card.Link>
 
         </Card.Body>
        

@@ -6,16 +6,16 @@
 function Resume() {
     return (
         <div>
-        <section>
+           
 
-            <h2>Resume</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus in cupiditate blanditiis sit saepe
-                vel provident, quaerat et animi ad ratione architecto fugiat debitis soluta magni officia natus iusto
-                ducimus.
-            </p>
-        </section>
-       
+                <h2>Resume</h2>
+             <p >link
+                <a target="_blank" href="https://drive.google.com/file/d/1wGna016rueNkSVdt-_BeWcU5FYS5vADU/view?usp=sharing">
+        
+                </a>
+                
+                </p>
+
         </div>
     );
 }
