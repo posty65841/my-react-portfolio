@@ -33,6 +33,7 @@ export default function MyWork() {
 
         <Card.Body>
           <Card.Link target="_blank" href="https://safe-taiga-52542.herokuapp.com">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/HappyHolidaysGiftTracker"> view repo</Card.Link>
 
         </Card.Body>
         
@@ -72,6 +73,7 @@ export default function MyWork() {
 
         <Card.Body>
           <Card.Link target="_blank" href="https://github.com/posty65841/Meme-Gen">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/Meme-Gen">view project</Card.Link>
 
         </Card.Body>
        
@@ -90,7 +92,8 @@ export default function MyWork() {
         </Card.Body>
 
         <Card.Body>
-          <Card.Link target="_blank" href="https://github.com/posty65841/weather-app-">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/weather-app-">view repo</Card.Link>
+          <Card.Link target="_blank" href="https://posty65841.github.io/weather-app-/">view project</Card.Link>
 
         </Card.Body>
       </Card>
@@ -126,7 +129,8 @@ export default function MyWork() {
         </Card.Body>
         
         <Card.Body>
-          <Card.Link target="_blank" href="https://github.com/posty65841/note-taker">view project</Card.Link>
+          <Card.Link target="_blank" href="https://github.com/posty65841/note-taker">view repo</Card.Link>
+          <Card.Link target="_blank" href="https://obscure-headland-88481.herokuapp.com/">view project</Card.Link>
 
         </Card.Body>
        
