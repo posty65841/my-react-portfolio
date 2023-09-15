@@ -14,7 +14,6 @@ export default function AboutMe() {
 
       <h2>About me </h2>
       <p>
-<<<<<<< HEAD
         My name is Austin Post i was born and raised in Dallas, Texas I have a background in multi-media production,
         stream production, lighting, camera operations, and event management. I recently decided to push myself into the world of web development
         to better understand the technologies being used in my day to day life.
@@ -22,12 +21,6 @@ export default function AboutMe() {
         
          
 
-=======
-        My name is Austin Post i was born and raised in Dallas, Texas I have a background in multi media production,
-        stream production, lighting, camera operations, and event management. I recently decided to push myself into the world of web development
-        to better understand the technologies being used in my day to day life.
-        I am proficient in HTML5, CSS3, Js, React, MongDB, MySQL, and involved frameworks for the listed languages 
->>>>>>> a655d0c786a6a6bb588297408816e7de6e98c5ef
         <p>
           <img src={require("../../assets/IMG_6462.jpeg")} alt="my logo" width="100%" height="80%" />
         </p>
