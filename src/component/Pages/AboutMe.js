@@ -19,7 +19,7 @@ export default function AboutMe() {
         to better understand the technologies being used in my day to day life.
         I am proficient in HTML5, CSS3, Js, React, MongDB, MySQL, and involved frameworks for the listed languages 
         <p>
-          <img src={require("../../assets/IMG_6462.jpeg")} alt="my logo" width="100%" height="80%" />
+          <img src={require("../../assets/IMG_8991.JPG")} alt="my logo" width="100%" height="80%" />
         </p>
 
 
