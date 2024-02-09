@@ -17,7 +17,7 @@ export default function AboutMe() {
         My name is Austin Post i was born and raised in Dallas, Texas I have a background in multi-media production,
         stream production, lighting, camera operations, and event management. I recently decided to push myself into the world of web development
         to better understand the technologies being used in my day to day life.
-        I am proficeient in HTML5, CSS3, JavaScript, nodeJS,  React, MySQL, MongoDB, jQuery, and included frameworks for the listed languages.
+        I am proficient in HTML5, CSS3, JavaScript, nodeJS,  React, MySQL, MongoDB, jQuery, and included frameworks for the listed languages.
         
          
 
