@@ -46,7 +46,7 @@ export default function MyWork() {
         <Card.Body>
           <Card.Title>Employee Tracker</Card.Title>
           <Card.Text>
-            an application that allows users to update, delete, create new employees
+            an application that allows users to update, delete, create new employees via the command line 
           </Card.Text>
         </Card.Body>
         
